@@ -1,0 +1,16 @@
+{
+  "current_week": 11,
+  "current_week_revenue": 100.0,
+  "previous_week_revenue": 0,
+  "growth_percent": 0,
+  "best_day": "Sunday",
+  "peak_hour": 12,
+  "top_items": [
+    {
+      "name": "Gulab Jamun",
+      "quantity": 1,
+      "revenue": 100.0
+    }
+  ],
+  "last_updated": "2026-03-15T12:33:04.824309"
+}

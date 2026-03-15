@@ -1,0 +1,18 @@
+{
+  "total_orders": 13,
+  "total_revenue": 8230.0,
+  "average_order_value": 633.08,
+  "total_items_sold": 50,
+  "unique_items": 16,
+  "top_item": "Paneer Butter Masala",
+  "top_item_revenue": 30.38,
+  "current_week_revenue": 100.0,
+  "revenue_growth": 0,
+  "peak_hour": 22,
+  "last_updated": "2026-03-15T12:33:04.815309",
+  "data_range": {
+    "start": "2026-01-02",
+    "end": "2026-03-15",
+    "days": 72
+  }
+}
